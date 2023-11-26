@@ -56,12 +56,6 @@ background-color:var(--white)
     --dirty-white: #f4f4fd;
 }
 
-body {
-    color: var(--light-grey);
-    font-family: "Roboto", sans-serif;
-    background-color: var(--white);
-}
-
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -257,20 +251,6 @@ nav li a:first-child:focus {
     font-size: 16px;
     line-height: 1.5;
 
-}
-
-    {
-    --main-background-color: #FFFFFF;
-    --text-color: #434455;
-    --logo-text-color: #4d5ae5;
-    --link-text-color: #2e2f42;
-    --link-hover-color: #404bbf;
-}
-
-body {
-    font-family: "Roboto", sans-serif;
-    color: var(--text-color);
-    background-color: var(--main-background-color);
 }
 
 .list a:hover {
