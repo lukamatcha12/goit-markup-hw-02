@@ -1,4 +1,4 @@
-/* styles.css */
+/* CSS VARIABLES */
 :root {
     --iris: #4d5ae5;
     --ocean: #404bbf;
@@ -12,6 +12,11 @@
     --dairy: #fcfcfc;
 }
 
+body{
+color: var(--slate);
+background-color:var(--white)
+}
+/* GENERAL STYLES */
 .logo-style {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -285,7 +290,6 @@ body {
 }
 
 .list li {
-    display: inline-block;
     margin-right: 15px;
 }
 
