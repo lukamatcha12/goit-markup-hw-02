@@ -115,7 +115,7 @@ nav li a:first-child:focus {
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    font: #ffffff;
+    font color: #ffffff;
 }
 
 .first-section-button {
@@ -125,7 +125,7 @@ nav li a:first-child:focus {
     font size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    font: #ffffff;
+    font color: #ffffff;
 }
 
 .first-section-button {
