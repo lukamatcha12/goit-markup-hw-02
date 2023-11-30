@@ -129,7 +129,7 @@ nav li a:first-child:focus {
 }
 
 .first-section-button {
-    text color: var(--white);
+    text: var(--white);
 }
 
 .first-section-button {
@@ -141,7 +141,7 @@ nav li a:first-child:focus {
     cursor: pointer;
 }
 
-.section-two-header {
+.second-section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -149,7 +149,7 @@ nav li a:first-child:focus {
     color: var(--grey);
 }
 
-.section-two-content {
+.section-section-button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--light-grey);
