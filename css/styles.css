@@ -108,20 +108,19 @@ nav li a:first-child:focus {
     color: var(--light-blue-focus);
 }
 
-.section-one {
-    background-color: var(--grey);
-}
+/* Checking the firts section */
 
 .section-one-header {
+    background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: var(--white);
+    font color: #ffffff;
 }
 
 .main-button {
-    background-color: var(--light-blue);
+    background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -130,11 +129,13 @@ nav li a:first-child:focus {
     color: var(--white);
 }
 
-.main-button:hover,
+.main-button{text color: #ffffff;}
+
+.main-button:hover{
+    background-color: #404BBF}
 .main-button:focus {
-    background-color: var(--light-blue-focus);
-    cursor: pointer;
-}
+    background-color: #404BBF;
+    cursor: pointer;}
 
 .section-two-header {
     font-weight: 500;
