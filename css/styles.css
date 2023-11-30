@@ -108,7 +108,7 @@ nav li a:first-child:focus {
     color: var(--light-blue-focus);
 }
 
-.section-one-header {
+.hero-section {
     background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
@@ -116,11 +116,6 @@ nav li a:first-child:focus {
     letter-spacing: 0.02em;
     font color: #ffffff;
 }
-
-
-
-
-
 
 .main-button {
     background-color: #4D5AE5;
