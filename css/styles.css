@@ -107,15 +107,15 @@ nav li a:first-child:focus {
 .address a:focus {
     color: var(--light-blue-focus);
 }
-.hero-section {
+.firts-section {
     background-color: #2e2f42;}
 
-.hero-title{
+.firts-title{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    font: var(--white);
+    font: #ffffff;
 }
 
 .first-section-button {
@@ -125,11 +125,11 @@ nav li a:first-child:focus {
     font size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    font: var(--white);
+    font: #ffffff;
 }
 
 .first-section-button {
-    text: var(--white);
+    text: #ffffff;
 }
 
 .first-section-button {
