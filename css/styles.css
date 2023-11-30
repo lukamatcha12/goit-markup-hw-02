@@ -118,7 +118,7 @@ nav li a:first-child:focus {
     font color: var(--white);
 }
 
-.first-section{
+.first-section-button {
     background-color:#4D5AE5;
     font-family: "Roboto",sans-serif;
     font-weight: 500;
@@ -128,11 +128,11 @@ nav li a:first-child:focus {
     font color: #ffffff;
 }
 
-.first-section {
+.first-section-button {
     text color: #ffffff;
 }
 
-.first-section:hover {
+.first-section-button {
     background-color: #404BBF
 }
 
