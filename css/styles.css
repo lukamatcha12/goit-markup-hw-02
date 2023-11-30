@@ -127,9 +127,6 @@ nav li a:first-child:focus {
     line-height: 1.5;
     letter-spacing: 0.04em;
     font color:var(--white);
-}
-
-.first-section-button {
     text color:var(--white);
 }
 
