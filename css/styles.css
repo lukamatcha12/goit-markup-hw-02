@@ -107,9 +107,10 @@ nav li a:first-child:focus {
 .address a:focus {
     color: var(--light-blue-focus);
 }
-
 .hero-section {
-    background-color: #2e2f42;
+    background-color: #2e2f42;}
+
+.first-section{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
