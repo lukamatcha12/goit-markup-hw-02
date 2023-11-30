@@ -107,6 +107,7 @@ nav li a:first-child:focus {
 .address a:focus {
     color: var(--light-blue-focus);
 }
+/******** firts section *********/
 .firts-section {
     background-color: #2e2f42;}
 
@@ -115,7 +116,7 @@ nav li a:first-child:focus {
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    font color: #ffffff;
+    font color:var(--white);
 }
 
 .first-section-button {
@@ -125,11 +126,11 @@ nav li a:first-child:focus {
     font size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    font color: #ffffff;
+    font color:var(--white);
 }
 
 .first-section-button {
-    text: #ffffff;
+    text color:var(--white);
 }
 
 .first-section-button {
@@ -140,6 +141,12 @@ nav li a:first-child:focus {
     background-color: #404BBF;
     cursor: pointer;
 }
+/******** second section *********/
+.section-section-header {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--light-grey);
+}
 
 .second-section {
     font-weight: 500;
@@ -149,12 +156,7 @@ nav li a:first-child:focus {
     color: var(--grey);
 }
 
-.section-section-header {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--light-grey);
-}
-
+/******** second three *********/
 .section-three {
     font-size: 36px;
     line-height: 1.11;
