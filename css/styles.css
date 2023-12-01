@@ -139,12 +139,12 @@ nav li a:first-child:focus {
     background-color: #404BBF
 }
 /******** second section *********/
-.section-sectionheader {
+.section-tittle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--light-grey);
+    color: #2e2f42;
 }
 
 .second-list {
