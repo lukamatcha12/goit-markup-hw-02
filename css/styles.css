@@ -143,20 +143,21 @@ nav li a:first-child:focus {
 }
 /******** second section *********/
 .section-section-header {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--light-grey);
-}
-
-.second-section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--grey);
+    color: var(--light-grey);
 }
 
-/******** second three *********/
+.second-list {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--#434455);
+}
+
+/******** third section *********/
 .section-three {
     font-size: 36px;
     line-height: 1.11;
