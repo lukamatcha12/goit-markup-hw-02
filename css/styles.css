@@ -134,8 +134,8 @@ nav li a:first-child:focus {
     cursor: pointer;
 }
 
-.first-section-button a:hover,
-.first-section-button a:focus {
+.first-section-button:hover,
+.first-section-button:focus {
     background-color: #404BBF
 }
 /******** second section *********/
