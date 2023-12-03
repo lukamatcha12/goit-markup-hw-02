@@ -198,23 +198,26 @@ nav li a:first-child:focus {
     letter-spacing: 0.02em;
     color: var(--light-grey);
 
-    
-.team-member {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
 
-
-
-
+/* .team-member { */
+    /* font-weight: 500; */
+    /* font-size: 20px; */
+    /* line-height: 1.2; */
+    /* letter-spacing: 0.02em; */
+/* } */
+/*  */
 
 
 }
 
-.footer {
+.inside-logo {
     background-color: var(--grey);
+}
+
+.footer-paragraph{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
 
 .footer-content {
@@ -225,6 +228,7 @@ nav li a:first-child:focus {
 
 .footer-logo-studio {
     color: var(--dirty-white);
+
 }
 
 .profile-button {
