@@ -197,21 +197,10 @@ nav li a:first-child:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--light-grey);
-
-
-/* .team-member { */
-    /* font-weight: 500; */
-    /* font-size: 20px; */
-    /* line-height: 1.2; */
-    /* letter-spacing: 0.02em; */
-/* } */
-/*  */
-
-
 }
 
 .footer {
-    background-color: var(--navy-blue):
+    background-color: var(--navy-blue);
 }
 
 .inside-logo {
@@ -224,17 +213,13 @@ nav li a:first-child:focus {
     letter-spacing: 0.02em;
 }
 
-/* .footer-content { */
-    /* line-height: 1.5; */
-    /* color: var(--dirty-white); */
-    /* letter-spacing: 0.02em; */
-/* } */
-/*  */
-/* .footer-logo-studio { */
-    /* color: var(--dirty-white); */
-/*  */
-/* } */
-/*  */
+/**** portfolio ****/
+
+.portfolio-body{
+    font-family: "Roboto", sans-serif;
+    color: var(--slate);
+}
+
 .profile-button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
