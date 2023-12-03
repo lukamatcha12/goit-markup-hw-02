@@ -210,27 +210,31 @@ nav li a:first-child:focus {
 
 }
 
+.footer {
+    background-color: var(--navy-blue):
+}
+
 .inside-logo {
-    background-color: var(--grey);
+    background-color: #f4f4fd;
 }
 
-.footer-paragraph{
+.footer-paragraph {
     line-height: 1.5;
-    color: #F4F4FD;
+    color: var(--cloud);
     letter-spacing: 0.02em;
 }
 
-.footer-content {
-    line-height: 1.5;
-    color: var(--dirty-white);
-    letter-spacing: 0.02em;
-}
-
-.footer-logo-studio {
-    color: var(--dirty-white);
-
-}
-
+/* .footer-content { */
+    /* line-height: 1.5; */
+    /* color: var(--dirty-white); */
+    /* letter-spacing: 0.02em; */
+/* } */
+/*  */
+/* .footer-logo-studio { */
+    /* color: var(--dirty-white); */
+/*  */
+/* } */
+/*  */
 .profile-button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
