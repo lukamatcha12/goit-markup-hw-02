@@ -220,6 +220,48 @@ nav li a:first-child:focus {
     color: var(--slate);
 }
 
+.portfolio-logo{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size:18px;
+    line-height:1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--iris);
+    text-decoration: none;
+}
+
+.header-logo-studio {
+    color: var(--navy-blue);
+}
+
+.portfolio-list-one{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--navy-blue);
+    text-decoration: none;
+}
+
+.portfolio-list-one:hover ,
+.portfolio-list-two{
+    color: #404bbf;
+}
+
+.portfolio-list-one:focus
+.portfolio-list-two{
+    color: #404bbf;
+}
+
+.portfolio-list-two{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--navy-blue);
+    text-decoration: none; 
+}
+
 .profile-button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
