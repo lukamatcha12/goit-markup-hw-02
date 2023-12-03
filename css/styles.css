@@ -139,7 +139,7 @@ nav li a:first-child:focus {
     background-color: #404BBF
 }
 /******** second section *********/
-.section-header {
+.second-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -147,24 +147,25 @@ nav li a:first-child:focus {
     color: #2e2f42;
 }
 
-.second-list {
+.firts-list-header {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--#434455);
 }
 
-/******** third section *********/
-.section-three {
+/******** second section list *********/
+.third-header {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     text-transform: capitalize;
-    color: var(--grey);
+    color: #2e2f42;
 }
 
+/******** fourth section *********/
 .section-four {
-    background-color: var(--dirty-white);
+    background-color: #F4F4FD;
 }
 
 .section-four-header {
